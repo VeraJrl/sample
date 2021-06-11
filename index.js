@@ -5,7 +5,7 @@ const port = 3000;
 const _ = require('lodash');
 
 app.get('/', (req, res) => {
-  console.log("Change2")
+  console.log("Change3 diti")
 //   const arrayRange = _.range(1, 5);
 //   res.send(`my Array: ${arrayRange}`);
     res.send('Hello World!');
